@@ -1,0 +1,26 @@
+# Compiled bytecode
+*.class
+
+# Logs
+*.log
+
+# IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# Build folders
+target/
+out/
+build/
+
+# Maven and Gradle
+*.jar
+*.war
+*.ear
+.gradle/
+
+# Environment variables
+.env
