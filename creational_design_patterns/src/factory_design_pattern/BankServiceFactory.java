@@ -1,3 +1,5 @@
+package factory_design_pattern;
+
 public class BankServiceFactory {
   public static BankService getService(String type) {
     if (type == null)
